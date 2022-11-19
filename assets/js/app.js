@@ -9,8 +9,6 @@ createApp({
     data(){
         return{
             users: [],
-            amount: 0,
-            price: 0,
         }
     },
     components:{
